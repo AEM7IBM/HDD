@@ -1,0 +1,14 @@
+{
+  "name": "hdd",
+  "version": "1.0.0",
+  "description": "local business website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "treats"
+  ],
+  "author": "Aaron McNeal",
+  "license": "ISC"
+}
