@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Holtwood+One+SC&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+
+}
+
+/* Header section */
+
+.company-name-initials {
+    font-family: 'Holtwood One SC', serif;
+}
+
+.company-name {
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+/* End of header section */
