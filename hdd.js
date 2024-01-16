@@ -1,0 +1,1 @@
+const companyIcons = document.querySelectorAll('company-icons i');
